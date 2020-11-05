@@ -9,7 +9,7 @@ Notepad++ is distributed as free software.
 
 ## How to install Notepad++ FDS syntax highlight plugin
 
-- Download the latest version from: https://raw.githubusercontent.com/firetools/notepad-plus-plus-fds/main/fds.xml
+- Download the latest version of the [fds.xml](https://raw.githubusercontent.com/firetools/notepad-plus-plus-fds/main/fds.xml) file
 - Open Notepad++
 - Open the `User Defined Language` Dialog clicking on `Language > Define your language ...`.
 - Press the `Import ...` button and select the downloaded file.
